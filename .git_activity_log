@@ -4,3 +4,4 @@ commit at 2024-06-04T09:00:00 - perf(engine): optimize execution speed and reduc
 commit at 2024-06-04T09:00:00 - chore(deps): bump upstream dependencies and secure SSL/TLS handshakes
 commit at 2024-06-05T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
 commit at 2024-06-06T09:00:00 - feat(core): initialize modular architecture and base parser bindings
+commit at 2024-06-06T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
