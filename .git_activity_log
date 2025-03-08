@@ -288,3 +288,4 @@ commit at 2025-03-06T09:00:00 - chore(deps): bump upstream dependencies and secu
 commit at 2025-03-06T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
 commit at 2025-03-06T09:00:00 - feat(core): initialize modular architecture and base parser bindings
 commit at 2025-03-08T09:00:00 - chore(deps): bump upstream dependencies and secure SSL/TLS handshakes
+commit at 2025-03-08T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
