@@ -368,3 +368,4 @@ commit at 2025-05-23T09:00:00 - style(ui): align rounded cards and green/blue ae
 commit at 2025-05-23T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
 commit at 2025-05-25T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
 commit at 2025-05-25T09:00:00 - feat(core): initialize modular architecture and base parser bindings
+commit at 2025-05-25T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
