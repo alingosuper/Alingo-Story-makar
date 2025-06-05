@@ -376,3 +376,4 @@ commit at 2025-05-30T09:00:00 - fix(runtime): resolve memory leak during asynchr
 commit at 2025-05-30T09:00:00 - feat(core): initialize modular architecture and base parser bindings
 commit at 2025-06-02T09:00:00 - refactor(types): optimize type definitions and sanitization layers
 commit at 2025-06-02T09:00:00 - refactor(types): optimize type definitions and sanitization layers
+commit at 2025-06-05T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
