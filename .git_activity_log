@@ -418,3 +418,4 @@ commit at 2025-07-26T09:00:00 - fix(runtime): resolve memory leak during asynchr
 commit at 2025-07-27T09:00:00 - perf(engine): optimize execution speed and reduce binary footprint
 commit at 2025-07-27T09:00:00 - perf(engine): optimize execution speed and reduce binary footprint
 commit at 2025-07-27T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
+commit at 2025-07-29T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
