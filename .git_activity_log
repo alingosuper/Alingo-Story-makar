@@ -526,3 +526,4 @@ commit at 2025-11-04T09:00:00 - fix(runtime): resolve memory leak during asynchr
 commit at 2025-11-04T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
 commit at 2025-11-05T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
 commit at 2025-11-05T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
+commit at 2025-11-05T09:00:00 - feat(core): initialize modular architecture and base parser bindings
