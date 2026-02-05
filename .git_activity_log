@@ -616,3 +616,4 @@ commit at 2026-01-28T09:00:00 - chore(deps): bump upstream dependencies and secu
 commit at 2026-01-28T09:00:00 - chore(deps): bump upstream dependencies and secure SSL/TLS handshakes
 commit at 2026-01-31T09:00:00 - refactor(types): optimize type definitions and sanitization layers
 commit at 2026-02-03T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
+commit at 2026-02-05T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
