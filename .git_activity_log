@@ -748,3 +748,4 @@ commit at 2026-05-29T09:00:00 - style(ui): align rounded cards and green/blue ae
 commit at 2026-05-29T09:00:00 - test(suite): add comprehensive unit tests and mock integration helpers
 commit at 2026-05-29T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
 commit at 2026-05-30T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
+commit at 2026-05-30T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
