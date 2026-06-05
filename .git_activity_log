@@ -752,3 +752,4 @@ commit at 2026-05-30T09:00:00 - docs: update API reference, architectural diagra
 commit at 2026-05-30T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
 commit at 2026-06-02T09:00:00 - chore(deps): bump upstream dependencies and secure SSL/TLS handshakes
 commit at 2026-06-05T09:00:00 - test(suite): add comprehensive unit tests and mock integration helpers
+commit at 2026-06-05T09:00:00 - feat(core): initialize modular architecture and base parser bindings
