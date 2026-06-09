@@ -758,3 +758,4 @@ commit at 2026-06-08T09:00:00 - perf(engine): optimize execution speed and reduc
 commit at 2026-06-08T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
 commit at 2026-06-08T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
 commit at 2026-06-09T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
+commit at 2026-06-09T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
