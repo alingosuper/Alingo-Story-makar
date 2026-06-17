@@ -767,3 +767,4 @@ commit at 2026-06-14T09:00:00 - test(suite): add comprehensive unit tests and mo
 commit at 2026-06-14T09:00:00 - feat(core): initialize modular architecture and base parser bindings
 commit at 2026-06-15T09:00:00 - test(suite): add comprehensive unit tests and mock integration helpers
 commit at 2026-06-15T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
+commit at 2026-06-17T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
