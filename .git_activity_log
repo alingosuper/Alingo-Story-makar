@@ -785,3 +785,4 @@ commit at 2026-07-01T09:00:00 - docs: update API reference, architectural diagra
 commit at 2026-07-01T09:00:00 - feat(core): initialize modular architecture and base parser bindings
 commit at 2026-07-02T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
 commit at 2026-07-04T09:00:00 - feat(core): initialize modular architecture and base parser bindings
+commit at 2026-07-05T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
