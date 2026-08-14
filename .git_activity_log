@@ -822,3 +822,4 @@ commit at 2026-08-06T09:00:00 - test(suite): add comprehensive unit tests and mo
 commit at 2026-08-09T09:00:00 - fix(runtime): resolve memory leak during asynchronous event loop execution
 commit at 2026-08-10T09:00:00 - perf(engine): optimize execution speed and reduce binary footprint
 commit at 2026-08-13T09:00:00 - chore(deps): bump upstream dependencies and secure SSL/TLS handshakes
+commit at 2026-08-14T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
