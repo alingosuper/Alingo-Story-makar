@@ -838,3 +838,4 @@ commit at 2026-08-24T09:00:00 - chore(deps): bump upstream dependencies and secu
 commit at 2026-08-24T09:00:00 - docs: update API reference, architectural diagrams, and migration guides
 commit at 2026-08-27T09:00:00 - feat(core): initialize modular architecture and base parser bindings
 commit at 2026-08-27T09:00:00 - feat(core): initialize modular architecture and base parser bindings
+commit at 2026-08-30T09:00:00 - style(ui): align rounded cards and green/blue aesthetic guidelines
