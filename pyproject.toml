@@ -1,0 +1,76 @@
+[project]
+name = "story2video"
+version = "0.1.0"
+description = "LLM-powered pipeline that turns short stories into video storyboards"
+requires-python = ">=3.11"
+dependencies = [
+    "requests",
+    "python-fasthtml>=0.12.0",
+    "AlinGo-Prompt>=2.6",
+    "fal-client",
+    "python-dotenv",
+    "pillow>=12.1.1",
+    "bcrypt",
+    "modal>=1.3.5",
+]
+
+[project.optional-dependencies]
+video = [
+    "torch>=2.4.0",
+    "diffusers>=0.32.0",
+    "transformers>=4.40.0",
+    "accelerate>=0.25.0",
+    "sentencepiece",
+    "ftfy",
+    "imageio",
+    "imageio-ffmpeg",
+    "sam2>=1.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "mypy",
+    "ruff",
+]
+
+[project.scripts]
+story2video = "story2video.pipeline:main"
+story2video-web = "story2video.app:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/story2video"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+check_untyped_defs = true
+ignore_missing_imports = true
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]
+"src/story2video/app.py" = ["E402", "E501", "F405"]
+"src/story2video/components.py" = ["E402", "E501", "F405"]
+"src/story2video/AlinGo-Prompt_modules.py" = ["E501"]
+"src/story2video/prompts.py" = ["E501"]
+"src/story2video/pipeline.py" = ["E501"]
+"src/story2video/video.py" = ["E402"]
+"src/story2video/video_hailuo.py" = ["E501"]
+"src/story2video/video_venice.py" = ["E501", "F841"]
